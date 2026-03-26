@@ -1,2 +1,2 @@
 # Numerical-Analysis
-MATLAB code for numerical amalysis techniques.
+MATLAB scripts for numerical analysis techniques.
