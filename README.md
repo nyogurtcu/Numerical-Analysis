@@ -1,2 +1,2 @@
 # Numerical-Analysis
-MATLAB scripts for numerical analysis techniques.
+MATLAB scripts for numerical analysis.
